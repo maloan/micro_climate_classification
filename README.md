@@ -42,7 +42,7 @@ To run the project, follow these steps based on the specific aspect you're inter
 If you're interested in contributing to this project, please feel free to fork the repository, create your feature branch, and submit a pull request.
 
 #### License  
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 #### Contact  
 - Project Maintainer: Ananda Kurth - ananda.kurth@unifr.ch  
