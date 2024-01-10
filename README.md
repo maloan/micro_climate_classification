@@ -9,7 +9,7 @@ This repository contains the source code for the "Urban Microclimate Classificat
 
 - `clustering_new_data/`: This directory contains the application used to predict new data clusters.
 
-- `data/`: Stores all the collected and processed data, including historical weather data, survey data, and various data frames in CSV and pickled formats. Most of the data is not included for security reasons
+- `data/`: Stores all the collected and processed data, including historical weather data, survey data, and various data frames in CSV and pickled formats. The data is not included for security reasons
 
 - `main_project/`: Features the primary Jupyter notebook (`data_processing_and_clustering.ipynb`) encapsulating the entire data processing and clustering process.
 
