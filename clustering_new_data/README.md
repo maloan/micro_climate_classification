@@ -49,7 +49,7 @@ The microclimate prediction application is a tool that predicts the temperature 
 
 
 #### License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 #### Contact  
 - Project Maintainer: Ananda Kurth - ananda.kurth@unifr.ch  
