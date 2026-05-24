@@ -35,12 +35,6 @@ To run the project, follow these steps based on the specific aspect you are inte
 1. **Data Analysis and Clustering**: Execute the `data_processing_and_clustering.ipynb` notebook in the `main_project/` directory.
 2. **Categorizing a new Microclimate**: Execute the `microclimate_predictor.py` program in the `clustering_new_data/` directory.
 
-#### Contributing  
-If you want to contribute to this project, please feel free to fork the repository, create your feature branch, and submit a pull request.
-
 #### License  
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-#### Contact  
-- Project Maintainer: Ananda Kurth - ananda.kurth@unifr.ch  
-- Project Link: https://github.com/maloan/micro_climate_classification
